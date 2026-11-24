@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "applicationId": "app.xiaoman.nufe_xiaoman",
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.4.0/hexu-v0.4.0-android.apk",
+  "bytes": 63318659,
+  "sha256": "c6af50b9b802f937c54feff1fbce7a2ce4efed42a07d269af4e0fbc118b62c71",
+  "notes": "新增个人考试、考试提醒、调课提醒和精简首页。"
+}
