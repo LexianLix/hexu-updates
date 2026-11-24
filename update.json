@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.4.0/hexu-v0.4.0-android.apk",
-  "bytes": 63318659,
-  "sha256": "c6af50b9b802f937c54feff1fbce7a2ce4efed42a07d269af4e0fbc118b62c71",
-  "notes": "新增个人考试、考试提醒、调课提醒和精简首页。"
+  "versionCode": 5,
+  "versionName": "0.5.0",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.5.0/hexu-v0.5.0-android.apk",
+  "bytes": 63860507,
+  "sha256": "14d2825537b720e7f7cdbc8f80be55bc8fd30b0a5d2e82658c9ba0892b53491d",
+  "notes": "新增学业日历、空教室和成绩、学习通通知与校园网络工具，优化切页性能。"
 }
