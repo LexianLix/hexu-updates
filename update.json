@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 10,
-  "versionName": "0.6.3",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.6.3/hexu-v0.6.3-android.apk",
-  "bytes": 96827982,
-  "sha256": "b08adb4a544a04f30d86b3b545684e3dd11867e31feb78b0e5d9d41141f7e29c",
-  "notes": "新增 U净 实时洗衣入口。真实登录、预约和付款尚未完成验收。"
+  "versionCode": 11,
+  "versionName": "0.6.4",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.6.4/hexu-v0.6.4-android.apk",
+  "bytes": 96844366,
+  "sha256": "d364496b4fd4d1037445376d4689af5db5f51474165f78832f330cf2a3f1c138",
+  "notes": "修复 U净旧款机身码识别与登录会话保存。"
 }
