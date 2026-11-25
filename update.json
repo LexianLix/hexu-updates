@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 9,
-  "versionName": "0.6.2",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.6.2/hexu-v0.6.2-android.apk",
-  "bytes": 96464986,
-  "sha256": "ec8d81885f526a79fa4b6bd85831b2760dc59b377ac145e423a64c7af7084b9a",
-  "notes": "新增宿舍电控查询与充值入口、U净机身码识别和常用洗衣机管理。"
+  "versionCode": 10,
+  "versionName": "0.6.3",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.6.3/hexu-v0.6.3-android.apk",
+  "bytes": 96827982,
+  "sha256": "b08adb4a544a04f30d86b3b545684e3dd11867e31feb78b0e5d9d41141f7e29c",
+  "notes": "新增 U净 实时洗衣入口。真实登录、预约和付款尚未完成验收。"
 }
