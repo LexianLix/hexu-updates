@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 7,
-  "versionName": "0.6.0",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.6.0/hexu-v0.6.0-android.apk",
-  "bytes": 96202690,
-  "sha256": "c594d2bb5659c2190893562d8114fb9ea2c17ed83e23d05ef208e924d718f1d2",
-  "notes": "新增电费截图识别、U净通知、桌面课表和校园服务。"
+  "versionCode": 9,
+  "versionName": "0.6.2",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.6.2/hexu-v0.6.2-android.apk",
+  "bytes": 96464986,
+  "sha256": "ec8d81885f526a79fa4b6bd85831b2760dc59b377ac145e423a64c7af7084b9a",
+  "notes": "新增宿舍电控查询与充值入口、U净机身码识别和常用洗衣机管理。"
 }
