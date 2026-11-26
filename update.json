@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 15,
-  "versionName": "0.6.8",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.6.8/hexu-v0.6.8-android-arm64-v8a.apk",
-  "bytes": 38158155,
-  "sha256": "686d3594bc3ba1f85b3e555ad7957a8aed922ebb8e5fe65874287d409e239363",
-  "notes": "新增桌面小组件、课前和作业等四类本地提醒，改进校园服务同步和更新下载。"
+  "versionCode": 16,
+  "versionName": "0.7.0",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.7.0/hexu-v0.7.0-android-arm64-v8a.apk",
+  "bytes": 38421327,
+  "sha256": "cbf7c72d17c3962f3ad2921d28278f30fe97b63cf1521e6467b4226538092812",
+  "notes": "新增资料栏和离线资料，支持课表图片与日历导出，完善空教室筛选、成绩按学期归档和校历同步。"
 }
