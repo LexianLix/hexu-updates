@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 18,
-  "versionName": "0.7.2",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.7.2/hexu-v0.7.2-android-arm64-v8a.apk",
-  "bytes": 38655939,
-  "sha256": "4c8793b2183229989de9808b3e9f8f4b6dfa799d6285b1700f96e1892d988730",
-  "notes": "更新禾序启动图标，采用暖炭黑底与象牙白 H。"
+  "versionCode": 19,
+  "versionName": "0.7.3",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.7.3/hexu-v0.7.3-android-arm64-v8a.apk",
+  "bytes": 38787071,
+  "sha256": "f0315361bd6e467be0f809b019f29ecb9f98289c1822fe99288505d145b7410c",
+  "notes": "分开校园卡与宿舍电费入口，改进余额同步和宿舍复选，接入 PU 登录页并完善成绩学期识别。"
 }
