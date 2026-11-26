@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 13,
-  "versionName": "0.6.6",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.6.6/hexu-v0.6.6-android.apk",
-  "bytes": 97402994,
-  "sha256": "2acb20793f7d6deb861c0eb6156fefecc889b5bf9693116f12f4423c9b0c69c1",
-  "notes": "更新界面，新增学习通作业同步、校园服务状态接口和静默更新检查。"
+  "versionCode": 15,
+  "versionName": "0.6.8",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.6.8/hexu-v0.6.8-android-arm64-v8a.apk",
+  "bytes": 38158155,
+  "sha256": "686d3594bc3ba1f85b3e555ad7957a8aed922ebb8e5fe65874287d409e239363",
+  "notes": "新增桌面小组件、课前和作业等四类本地提醒，改进校园服务同步和更新下载。"
 }
