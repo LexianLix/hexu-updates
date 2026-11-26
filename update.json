@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 17,
-  "versionName": "0.7.1",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.7.1/hexu-v0.7.1-android-arm64-v8a.apk",
-  "bytes": 38618659,
-  "sha256": "fb4ee868b4ededb6e98113744d6684058a04c2d3ff70bbeeab2f857a91b33082",
-  "notes": "修复教务登录误报，改进空教室和易通查询，新增相册课表背景、倒数日与 GPA 总结图。"
+  "versionCode": 18,
+  "versionName": "0.7.2",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.7.2/hexu-v0.7.2-android-arm64-v8a.apk",
+  "bytes": 38655939,
+  "sha256": "4c8793b2183229989de9808b3e9f8f4b6dfa799d6285b1700f96e1892d988730",
+  "notes": "更新禾序启动图标，采用暖炭黑底与象牙白 H。"
 }
