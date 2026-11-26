@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 19,
-  "versionName": "0.7.3",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.7.3/hexu-v0.7.3-android-arm64-v8a.apk",
+  "versionCode": 20,
+  "versionName": "0.7.4",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.7.4/hexu-v0.7.4-android-arm64-v8a.apk",
   "bytes": 38787071,
-  "sha256": "f0315361bd6e467be0f809b019f29ecb9f98289c1822fe99288505d145b7410c",
-  "notes": "分开校园卡与宿舍电费入口，改进余额同步和宿舍复选，接入 PU 登录页并完善成绩学期识别。"
+  "sha256": "bfd889bd65a03236b3564a1615149be94d961f0c3956600fe61348d8a0df8f8b",
+  "notes": "修复同步一个学期覆盖其他学期成绩的问题。宿舍电费和第二课堂指向今日校园的电控缴费及智慧学工入口。"
 }
