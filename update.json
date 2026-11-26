@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "applicationId": "app.xiaoman.nufe_xiaoman",
-  "versionCode": 16,
-  "versionName": "0.7.0",
-  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.7.0/hexu-v0.7.0-android-arm64-v8a.apk",
-  "bytes": 38421327,
-  "sha256": "cbf7c72d17c3962f3ad2921d28278f30fe97b63cf1521e6467b4226538092812",
-  "notes": "新增资料栏和离线资料，支持课表图片与日历导出，完善空教室筛选、成绩按学期归档和校历同步。"
+  "versionCode": 17,
+  "versionName": "0.7.1",
+  "apk": "https://github.com/LexianLix/hexu-updates/releases/download/v0.7.1/hexu-v0.7.1-android-arm64-v8a.apk",
+  "bytes": 38618659,
+  "sha256": "fb4ee868b4ededb6e98113744d6684058a04c2d3ff70bbeeab2f857a91b33082",
+  "notes": "修复教务登录误报，改进空教室和易通查询，新增相册课表背景、倒数日与 GPA 总结图。"
 }
